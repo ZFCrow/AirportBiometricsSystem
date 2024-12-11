@@ -46,15 +46,19 @@ Press "4" for "Look a bit lower."
 
 Press "5" for "Look a bit higher."
 
+Press "6" for "Remove your cap."  
+
+Press "7" for "Remove your glasses."
+
 For face scan results:
 
 Press "1" for Success (Green Glow).
 
 Press "2" for Failure (Red Glow).
 
-Press "6" to mark Success and Redirect.
+Press "8" to mark Success and Redirect.
 
-Press "7" to mark Failure and Redirect to Finger Scanning.
+Press "9" to mark Failure and Redirect to Finger Scanning.
 
 ## 4. Finger Scanning Page (if redirected)
 
