@@ -24,7 +24,7 @@ Help Button: Each page includes an assistant help button for guidance. Press "2"
 
 Language Options: Select your preferred language for the check-in experience. Supported languages include English, Chinese, Malay, and Tamil.
 
-#System Flow
+# System Flow
 
 ## 1. Welcome Page
 
