@@ -24,13 +24,13 @@ Help Button: Each page includes an assistant help button for guidance. Press "2"
 
 Language Options: Select your preferred language for the check-in experience. Supported languages include English, Chinese, Malay, and Tamil.
 
-System Flow
+#System Flow
 
-1. Welcome Page
+## 1. Welcome Page
 
 Press "1" to begin passport scanning.
 
-2. Passport Scanning Page
+## 2. Passport Scanning Page
 
 Press "1" if the passport scan is successful, or "2" if it fails.
 
@@ -38,7 +38,7 @@ Success: A success message will appear, redirecting you to the Face Scanner page
 
 Failure: You will be taken to the Passport Scan Failed page with an error prompt. Press "1" to retry the scan.
 
-3. Face Scanner Page
+## 3. Face Scanner Page
 
 Position your face within the frame. Use the following keys for adjustments:
 
@@ -56,7 +56,7 @@ Press "6" to mark Success and Redirect.
 
 Press "7" to mark Failure and Redirect to Finger Scanning.
 
-4. Finger Scanning Page (if redirected)
+## 4. Finger Scanning Page (if redirected)
 
 Press "1" to begin fingerprint scanning.
 
